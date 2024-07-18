@@ -1,0 +1,25 @@
+.course-card {
+  border: 1px solid #282c34;
+  background-color: white;
+  padding: 20px;
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+.course-card > button {
+  border-radius: 0;
+  padding: 10px 12px;
+  display: block;
+  border: 1px solid #282c34;
+  background-color: white;
+}
+
+.course-card > button:hover {
+  background-color: #20232a;
+  color: white;
+}
+.title {
+  text-align: center;
+  margin-top: 10px;
+  color: white;
+}
